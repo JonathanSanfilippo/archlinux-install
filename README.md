@@ -1,5 +1,5 @@
 # archlinux-install
-Personal Script for Archlinux  
+# Personal scripts to install Arch Linux
 
 ### Italian
 - Collegarsi alla rete manualmente.
