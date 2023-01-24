@@ -1,5 +1,7 @@
 # archlinux-install
 # Personal scripts to install Arch Linux
+
+- Modify the scripts for your machine
 - Difficulty: Medium
 - Required: Know bash scripts
 
