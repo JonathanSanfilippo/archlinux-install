@@ -1,5 +1,7 @@
 # archlinux-install
 # Personal scripts to install Arch Linux
+- Difficulty: Medium
+- Required: Know bash scripts
 
 ### Italian
 - Collegarsi alla rete manualmente.
