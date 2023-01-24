@@ -1,7 +1,7 @@
 # archlinux-install
 Personal Script for Archlinux  
 
-###Italian
+### Italian
 - Collegarsi alla rete manualmente.
 - Creare le partizioni manualmente tramite cfdisk.
 - Montare una USB con i due scripts in /run/mount
