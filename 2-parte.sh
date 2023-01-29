@@ -63,19 +63,19 @@ options root=$p3 rootflags=subvol=@ rw quiet loglevel=3 rd.system.show_status=au
 
 
 #GNOME
-# pacman -s gnome xorg wpa_supplicant wireless_tools netctl net-tools iw networkmanager alsa-utils pipewire-pulse firewalld mtools dosfstools gparted bluez bluez-utils reflector acpi cronie pacman-contrib git wget jq gparted 
+# pacman -S gnome xorg wpa_supplicant wireless_tools netctl net-tools iw networkmanager alsa-utils pipewire-pulse firewalld mtools dosfstools gparted bluez bluez-utils reflector acpi cronie pacman-contrib git wget jq gparted 
 # systemctl enable gdm
 
 #Cinnamon
-# pacman -s cinnamon nemo-fileroller gnome-terminal lightdm-gtk-greeter lightdm-gtk-greeter-settings xdg-user-dirs-gtk xorg wpa_supplicant wireless_tools netctl net-tools iw networkmanager alsa-utils pipewire-pulse firewalld mtools dosfstools gparted bluez bluez-utils reflector acpi cronie pacman-contrib git wget jq gparted  
+# pacman -S cinnamon nemo-fileroller gnome-terminal lightdm-gtk-greeter lightdm-gtk-greeter-settings xdg-user-dirs-gtk xorg wpa_supplicant wireless_tools netctl net-tools iw networkmanager alsa-utils pipewire-pulse firewalld mtools dosfstools gparted bluez bluez-utils reflector acpi cronie pacman-contrib git wget jq gparted  
 # systemctl enable lightdm
 
 #XFCE
-# pacman -s xfce4 xfce4-goodies lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings epiphany xorg wpa_supplicant wireless_tools netctl net-tools iw networkmanager alsa-utils pipewire-pulse firewalld mtools dosfstools gparted bluez bluez-utils reflector acpi cronie pacman-contrib git wget jq gparted 
+# pacman -S xfce4 xfce4-goodies lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings epiphany xorg wpa_supplicant wireless_tools netctl net-tools iw networkmanager alsa-utils pipewire-pulse firewalld mtools dosfstools gparted bluez bluez-utils reflector acpi cronie pacman-contrib git wget jq gparted 
 # systemctl enable lightdm
 
 #KDE
-# pacman -s sddm plasma ark konsole dolphin xorg wpa_supplicant wireless_tools netctl net-tools iw networkmanager alsa-utils pipewire-pulse firewalld mtools dosfstools gparted bluez bluez-utils reflector acpi cronie pacman-contrib git wget jq gparted 
+# pacman -S sddm plasma ark konsole dolphin xorg wpa_supplicant wireless_tools netctl net-tools iw networkmanager alsa-utils pipewire-pulse firewalld mtools dosfstools gparted bluez bluez-utils reflector acpi cronie pacman-contrib git wget jq gparted 
 # systemctl enable sddm  
 
 #servizi
